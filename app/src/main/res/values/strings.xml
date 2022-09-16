@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="wishlist">WishList</string>
+    <string name="todo">TODO</string>
+    <string name="movie_is_deleted">Movie is deleted from Wishlist</string>
+    <string name="no_movies_added">No Movies Added</string>
+</resources>
